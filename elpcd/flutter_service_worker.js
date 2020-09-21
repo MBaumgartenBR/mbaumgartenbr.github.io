@@ -12,7 +12,7 @@ const RESOURCES = {
 "assets/fonts/MaterialIcons-Regular.otf": "a68d2a28c526b3b070aefca4bac93d25",
 "index.html": "aba257e408f6d6532695e52f22ab1791",
 "/": "aba257e408f6d6532695e52f22ab1791",
-"main.dart.js": "7ab7698eb00a359cdf726acb9ac7c657",
+"main.dart.js": "6af0587b937b40727355543003a8c2f9",
 "icons/Icon-512.png": "932a07e30259eef10824d0d6f2d465a7",
 "icons/Icon-192.png": "39f1069df26ce66c608062a7c404f360",
 "favicon.png": "2a822fa095d544a551add4ef5363997a"
